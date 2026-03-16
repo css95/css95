@@ -39,6 +39,7 @@ An interactive film trivia quiz built as the final project in my JavaScript 1 co
 
 ### 🎨 Penseldrag AB — Services Page *(Group Project)*
 🔗 [GitHub Repo](https://github.com/swiderekm/examination-projekt)
+
 A multi-page website for a fictional painting company based in Stockholm.
 - My contribution: the **Services (Tjänster) page** — layout, responsive design, and accessible collapsible sections
 - Built with: **HTML, SCSS** — with a focus on accessibility and responsive design across mobile, tablet, and desktop
