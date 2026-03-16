@@ -1,6 +1,6 @@
 ## Hi, I'm Carolin Steilner
 
-I'm a frontend developer student at [Nackademin](https://nackademin.se/utbildningar/frontendutvecklare/) in Solna, Sweden — currently in a 2-year YH programme in Frontend Development. I enjoy building clean, user-friendly interfaces and I'm actively looking for an internship (LIA) in December 2026.
+I'm a frontend developer student at [Nackademin](https://nackademin.se/utbildningar/frontendutvecklare/) in Solna, Sweden — currently in a 2-year YH programme in Frontend Development. I enjoy building clean, user-friendly interfaces and I'm actively looking for an LIA internship running December 2026 – April 2027.
 
 ---
 
