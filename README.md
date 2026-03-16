@@ -15,7 +15,7 @@ I'm a frontend developer student at [Nackademin](https://nackademin.se/utbildnin
 
 ## 📂 Projects
 
-### 🌱 Pet Garden
+### 🐶🌱 Pet Garden
 🔗 [Live Demo](https://css95.github.io/tamagotchi-game) · [GitHub Repo](https://github.com/css95/tamagotchi-game)
 
 A browser-based Tamagotchi-style game built as the final project in my JavaScript 2 course.
