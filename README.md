@@ -1,4 +1,4 @@
-# Hi, I'm Carolin Steilner - Frontend Developer Student
+# Hi, I'm Carolin Steilner
 
 I'm a frontend developer student at [Nackademin](https://nackademin.se/utbildningar/frontendutvecklare/) in Solna with an international background spanning film, media and tech. Previously I worked at Nobel Prize Outreach and hold an MA from NYU — now combining that creative and analytical experience with frontend development. Actively looking for an LIA internship running December 2026 – April 2027.
 
