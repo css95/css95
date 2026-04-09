@@ -1,6 +1,6 @@
 ## Hi, I'm Carolin Steilner
 
-I'm a frontend developer student at [Nackademin](https://nackademin.se/utbildningar/frontendutvecklare/) in Solna, Sweden — currently in a 2-year YH programme in Frontend Development. I enjoy building clean, user-friendly interfaces.
+I'm a frontend developer student at [Nackademin](https://nackademin.se/utbildningar/frontendutvecklare/) in Solna, Sweden, currently in a 2-year YH programme in Frontend Development. I enjoy building clean, user-friendly interfaces.
 
 ---
 
@@ -14,6 +14,25 @@ I'm a frontend developer student at [Nackademin](https://nackademin.se/utbildnin
 ---
 
 ## 📂 Projects
+
+### 🚀 Rocket Launch Calendar *(Ongoing)*
+🔗 [Live Demo](https://css95.github.io/rocket-launch-calendar) · [GitHub Repo](https://github.com/css95/rocket-launch-calendar)
+
+A calendar website displaying upcoming rocket launches in both list and calendar view.
+- Toggle between list view and calendar view with month navigation
+- Live launch data fetched from the Launch Library 2 API by The Space Devs
+- Built with: **React, Vite, Axios**
+
+---
+
+### 👟 Sole Search *(Ongoing — Group Project)*
+🔗 [GitHub Repo](https://github.com/BassamR14/webbshop-2026-fe)
+
+A sneaker drop e-commerce website built as a group project.
+- Built collaboratively using Git branching and agile workflows
+- Built with: **HTML, CSS, JavaScript**
+
+---
 
 ### 🐶🌱 Pet Garden
 🔗 [Live Demo](https://css95.github.io/tamagotchi-game) · [GitHub Repo](https://github.com/css95/tamagotchi-game)
