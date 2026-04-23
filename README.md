@@ -26,7 +26,7 @@ A calendar website displaying upcoming rocket launches in both list and calendar
 ---
 
 ### 👟 Sole Search *(Ongoing — Group Project)*
-🔗 [GitHub Repo](https://github.com/BassamR14/webbshop-2026-fe)
+🔗 [Live Demo](https://bassamr14.github.io/webbshop-2026-fe/) · [GitHub Repo](https://github.com/BassamR14/webbshop-2026-fe)
 
 A sneaker drop e-commerce website built as a group project.
 - Built collaboratively using Git branching and agile workflows
