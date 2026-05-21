@@ -25,7 +25,18 @@ A calendar website displaying upcoming rocket launches in both list and calendar
 
 ---
 
-### 👟 Sole Search *(Ongoing — Group Project)*
+### 🦆 Book Ducks 
+🔗 [Live Demo](coming soon) · [GitHub Repo](https://github.com/css95/bookducks)
+
+A bookstore web application built as the final project for the "Interaction with CMS" course at Nackademin.
+- Browse books and view details, with a "Want to Read" list for logged-in users
+- User authentication (register/login) and book ratings from 1–10
+- Admin functionality to add new books directly from the site
+- Built with: **JavaScript, HTML/CSS, Strapi (CMS)**
+
+---
+
+### 👟 Sole Search
 🔗 [Live Demo](https://bassamr14.github.io/webbshop-2026-fe/) · [GitHub Repo](https://github.com/BassamR14/webbshop-2026-fe)
 
 A sneaker drop e-commerce website built as a group project.
