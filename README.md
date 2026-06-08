@@ -26,7 +26,7 @@ A calendar website displaying upcoming rocket launches in both list and calendar
 ---
 
 ### 🦆 Book Ducks 
-🔗 [Live Demo](coming soon) · [GitHub Repo](https://github.com/css95/bookducks)
+🔗 [Live Demo](https://bookducks.vercel.app/) · [GitHub Repo](https://github.com/css95/bookducks)
 
 A bookstore web application built as the final project for the "Interaction with CMS" course at Nackademin.
 - Browse books and view details, with a "Want to Read" list for logged-in users
