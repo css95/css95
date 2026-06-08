@@ -2,6 +2,8 @@
 
 I'm a frontend developer student at [Nackademin](https://nackademin.se/utbildningar/frontendutvecklare/) in Solna, Sweden, currently in a 2-year YH programme in Frontend Development. I enjoy building clean, user-friendly interfaces.
 
+[Portfolio website](https://css95.github.io/portfolio/)
+
 ---
 
 ## 🛠️ Skills
